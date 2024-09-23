@@ -1,3 +1,3 @@
-FROM golang:1.8-onbuild
+FROM golang:1.18-onbuild
 
 EXPOSE 8080
